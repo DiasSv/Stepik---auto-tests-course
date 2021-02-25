@@ -1,6 +1,3 @@
 # Stepik---auto-tests-course
-home work qa
 
-
-
-Hello world
+В этом репозитории хранятся работы с курса QA automation 
